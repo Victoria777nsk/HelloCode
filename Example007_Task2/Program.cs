@@ -1,4 +1,4 @@
-﻿Console.Clear();
+Console.Clear();
 //Console.SetCursorPosition(10, 4);
 //Console.WriteLine("+");
 
@@ -14,7 +14,6 @@ Console.WriteLine("+");
 
 Console.SetCursorPosition(xc, yc);
 Console.WriteLine("+");
-
 
 int x = xa, y = xb;
 
